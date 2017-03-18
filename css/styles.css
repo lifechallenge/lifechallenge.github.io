@@ -36,3 +36,7 @@
 	min-height: 400px;
 	min-width: auto;
 }
+.carousel-inner > .item > img{ 
+	width:100%; 
+	height:500px; 
+}
